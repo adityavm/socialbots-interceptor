@@ -1,0 +1,26 @@
+{
+  "name": "socialbots-interceptor",
+  "version": "1.0.0",
+  "description": "ExpressJS middleware to intercept social service crawlers and handle them differently",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityavm/socialbots-interceptor.git"
+  },
+  "keywords": [
+    "expressjs",
+    "middleware",
+    "social",
+    "twitter",
+    "facebook"
+  ],
+  "author": "Aditya Mukherjee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adityavm/socialbots-interceptor/issues"
+  },
+  "homepage": "https://github.com/adityavm/socialbots-interceptor#readme"
+}
